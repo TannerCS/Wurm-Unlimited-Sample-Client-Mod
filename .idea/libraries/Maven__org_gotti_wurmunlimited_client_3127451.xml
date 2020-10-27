@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.gotti.wurmunlimited:client:3127451">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gotti/wurmunlimited/client/3127451/client-3127451.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gotti/wurmunlimited/client/3127451/client-3127451-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gotti/wurmunlimited/client/3127451/client-3127451-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
